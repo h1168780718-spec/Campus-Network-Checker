@@ -1,0 +1,11 @@
+# 真实配置与日志，绝不提交（含账号密码、机器参数、运行记录）
+campus_login.ini
+campus_login.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
